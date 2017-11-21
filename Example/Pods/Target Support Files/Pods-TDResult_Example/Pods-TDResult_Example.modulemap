@@ -1,0 +1,6 @@
+framework module Pods_TDResult_Example {
+  umbrella header "Pods-TDResult_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

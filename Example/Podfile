@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TDResult_Example' do
+  pod 'TDResult', :path => '../'
+
+  target 'TDResult_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

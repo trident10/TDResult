@@ -1,0 +1,16 @@
+PODS:
+  - TDResult (0.1.0)
+
+DEPENDENCIES:
+  - TDResult (from `../`)
+
+EXTERNAL SOURCES:
+  TDResult:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TDResult: aad281a1dc91d9e38c1efa9f4107ea2f19070199
+
+PODFILE CHECKSUM: 7bdad18f2089a7008aa59808d1d4e52e4a3e8bfd
+
+COCOAPODS: 1.3.1
