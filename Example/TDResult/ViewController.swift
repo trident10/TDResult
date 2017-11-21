@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import TDResult
 
 class ViewController: UIViewController {
 
