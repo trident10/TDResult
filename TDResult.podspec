@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TDResult'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A generic Result enum that includes Sucess with related data and error with related details'
 
 # This description is used to generate tags and improve search results.
